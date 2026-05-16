@@ -41,3 +41,5 @@ The dataset contains **3,900 customer transactions** with information on age, ge
 | Power BI                              | Interactive dashboard   |
 -------------------------------------------------------------------
 
+## 📊 Dashboard Preview
+![Dashboard](Dashboard.png)
